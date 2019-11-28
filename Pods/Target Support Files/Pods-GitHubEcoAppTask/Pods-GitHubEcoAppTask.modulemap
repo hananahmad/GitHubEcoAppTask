@@ -1,0 +1,6 @@
+framework module Pods_GitHubEcoAppTask {
+  umbrella header "Pods-GitHubEcoAppTask-umbrella.h"
+
+  export *
+  module * { export * }
+}
